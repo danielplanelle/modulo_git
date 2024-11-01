@@ -1,1 +1,1 @@
-Estou inserindo texto usando nano arquivo2.txt
+Adicionando um novo texto no arquivo2
