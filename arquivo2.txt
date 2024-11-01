@@ -1,1 +1,1 @@
-Adicionando um novo texto no arquivo2
+alterando pela terceira vez o arquivo2.txt para ver outra forma de commit
